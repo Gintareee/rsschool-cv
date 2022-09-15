@@ -41,3 +41,7 @@ console.log(arr.reduce(reducer));
 - RS Schools Course ***« Javascript/Front-end Mentoring Program in Lithuania & Latvia · RS School 2022Q3»*** (in progress)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - Self-learning from various related YouTube videos
+
+### English 
+* Professional Working English (English is the main language I use at my current job).
+* EPAM English test result: ***B2 level***.
